@@ -18,3 +18,4 @@ printf("%d is an Armstrong number",num);
 else
 printf("%d is an Armstrong number",num);
 return 0;}
+#gjk
